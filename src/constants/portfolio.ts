@@ -104,15 +104,7 @@ export const PORTFOLIO_CONTENT: {
     "GitHub",
   ],
   experience: [
-    {
-     // company: "Jspark AI",
-      //companyUrl: "https://jspark.ai",
-     // role: "SDE Intern",
-      //period: "Nov 2025 - Present",
-     // startDate: "2025-11-01",
-     // description: "",
-      //linkedin: "https://linkedin.com/company/jsparkai",
-    },
+
     {
       company: "Freelance",
       companyUrl: "",
